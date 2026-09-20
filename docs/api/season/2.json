@@ -1,0 +1,120 @@
+[
+  {
+    "id": 5,
+    "quote": "Every story has a beginning and an end. Yours doesn't have to end here.",
+    "season": 2,
+    "episode": 1,
+    "episodeTitle": "Lord Baltimore",
+    "tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": 6,
+    "quote": "I've made a lot of mistakes in my life, but I've learned from every single one of them.",
+    "season": 2,
+    "episode": 9,
+    "episodeTitle": "The Decembrist",
+    "tags": [
+      "wisdom",
+      "regret"
+    ]
+  },
+  {
+    "id": 23,
+    "quote": "Every kingdom needs a boogeyman. I happen to be a very good one.",
+    "season": 2,
+    "episode": 5,
+    "episodeTitle": "The Front",
+    "tags": [
+      "power",
+      "identity"
+    ]
+  },
+  {
+    "id": 24,
+    "quote": "You can't make decisions based on fear of consequences, Lizzy. That's no way to live.",
+    "season": 2,
+    "episode": 14,
+    "episodeTitle": "T. Earl King VI",
+    "tags": [
+      "fear",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 41,
+    "quote": "The truth is a bell you can't unring.",
+    "season": 2,
+    "episode": 8,
+    "episodeTitle": "The Deer Hunter",
+    "tags": [
+      "truth"
+    ]
+  },
+  {
+    "id": 42,
+    "quote": "I never look back, darling. It distracts from the now.",
+    "season": 2,
+    "episode": 12,
+    "episodeTitle": "The Kenyon Family",
+    "tags": [
+      "wit",
+      "identity"
+    ]
+  },
+  {
+    "id": 43,
+    "quote": "Guilt is a wasted emotion. It never once changed the past.",
+    "season": 2,
+    "episode": 17,
+    "episodeTitle": "Karakurt",
+    "tags": [
+      "guilt",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 44,
+    "quote": "There are two types of people in this world: those who fear the dark, and those who own it.",
+    "season": 2,
+    "episode": 21,
+    "episodeTitle": "Luther Braxton (No. 1)",
+    "tags": [
+      "power",
+      "fear"
+    ]
+  },
+  {
+    "id": 80,
+    "quote": "A criminal empire is just a family business with worse hours.",
+    "season": 2,
+    "episode": 3,
+    "episodeTitle": "Marvin Gerard (No. 1)",
+    "tags": [
+      "wit",
+      "identity"
+    ]
+  },
+  {
+    "id": 90,
+    "quote": "The FBI thinks in evidence. I think in people. People are far less predictable.",
+    "season": 2,
+    "episode": 4,
+    "episodeTitle": "Monarch Douglas Bank",
+    "tags": [
+      "wisdom",
+      "identity"
+    ]
+  },
+  {
+    "id": 91,
+    "quote": "You don't need to raise your voice when everyone in the room already fears you.",
+    "season": 2,
+    "episode": 19,
+    "episodeTitle": "Ian Garvey (No. 2)",
+    "tags": [
+      "power"
+    ]
+  }
+]

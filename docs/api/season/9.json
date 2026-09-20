@@ -1,0 +1,100 @@
+[
+  {
+    "id": 19,
+    "quote": "Regret is the price we pay for the choices that made us who we are.",
+    "season": 9,
+    "episode": 10,
+    "episodeTitle": "The Kazakh Sun",
+    "tags": [
+      "regret",
+      "identity"
+    ]
+  },
+  {
+    "id": 20,
+    "quote": "I'm not a good man, Lizzy. But I have tried, in my own way, to do good things.",
+    "season": 9,
+    "episode": 22,
+    "episodeTitle": "Elizabeth Keen",
+    "tags": [
+      "redemption",
+      "identity"
+    ]
+  },
+  {
+    "id": 34,
+    "quote": "Everything I've done, I've done to buy her time. Time is the only thing worth stealing.",
+    "season": 9,
+    "episode": 1,
+    "episodeTitle": "The Chairman",
+    "tags": [
+      "sacrifice",
+      "time"
+    ]
+  },
+  {
+    "id": 67,
+    "quote": "Legacy isn't what you leave behind. It's what refuses to leave you.",
+    "season": 9,
+    "episode": 4,
+    "episodeTitle": "Elizabeth Kirk",
+    "tags": [
+      "legacy"
+    ]
+  },
+  {
+    "id": 68,
+    "quote": "I've spent my whole life building a fortress around one person. Maybe that was the point all along.",
+    "season": 9,
+    "episode": 12,
+    "episodeTitle": "The300th",
+    "tags": [
+      "family",
+      "sacrifice"
+    ]
+  },
+  {
+    "id": 69,
+    "quote": "When the story ends, Lizzy, it isn't the crimes they'll remember. It's who you protected.",
+    "season": 9,
+    "episode": 18,
+    "episodeTitle": "The5th Column",
+    "tags": [
+      "legacy",
+      "family"
+    ]
+  },
+  {
+    "id": 70,
+    "quote": "In the end, we are all just stories someone else decides how to tell.",
+    "season": 9,
+    "episode": 21,
+    "episodeTitle": "Konets Reprise",
+    "tags": [
+      "legacy",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 87,
+    "quote": "Time doesn't heal wounds. It just teaches you to carry them differently.",
+    "season": 9,
+    "episode": 15,
+    "episodeTitle": "The Sikorsky Archer",
+    "tags": [
+      "grief",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 98,
+    "quote": "A confession is just a story with the ending already decided.",
+    "season": 9,
+    "episode": 7,
+    "episodeTitle": "The Kazakh Sun (No. 2)",
+    "tags": [
+      "truth",
+      "wit"
+    ]
+  }
+]

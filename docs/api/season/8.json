@@ -1,0 +1,97 @@
+[
+  {
+    "id": 17,
+    "quote": "The past isn't a place you visit, Lizzy. It's a place you carry with you.",
+    "season": 8,
+    "episode": 6,
+    "episodeTitle": "Rassvet",
+    "tags": [
+      "past",
+      "identity"
+    ]
+  },
+  {
+    "id": 18,
+    "quote": "I have lived a life of shadows so that others wouldn't have to.",
+    "season": 8,
+    "episode": 22,
+    "episodeTitle": "Konets, Part 2",
+    "tags": [
+      "sacrifice"
+    ]
+  },
+  {
+    "id": 33,
+    "quote": "A secret is only safe with one person, and even then, only for a while.",
+    "season": 8,
+    "episode": 13,
+    "episodeTitle": "Hannah Hayes",
+    "tags": [
+      "secrets"
+    ]
+  },
+  {
+    "id": 63,
+    "quote": "I have outlived most of my enemies and all of my illusions.",
+    "season": 8,
+    "episode": 3,
+    "episodeTitle": "Roanoke",
+    "tags": [
+      "identity",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 64,
+    "quote": "Redemption isn't a destination, Lizzy. It's a direction.",
+    "season": 8,
+    "episode": 9,
+    "episodeTitle": "Konets: Part 1",
+    "tags": [
+      "redemption"
+    ]
+  },
+  {
+    "id": 65,
+    "quote": "Every empire I've built was made of favors owed, not friendships kept.",
+    "season": 8,
+    "episode": 16,
+    "episodeTitle": "The Kazanjian Brothers (No. 149)",
+    "tags": [
+      "power"
+    ]
+  },
+  {
+    "id": 66,
+    "quote": "The last thing a dying man loses is his sense of humor. I intend to keep mine.",
+    "season": 8,
+    "episode": 20,
+    "episodeTitle": "Konets: Part 2",
+    "tags": [
+      "wit",
+      "mortality"
+    ]
+  },
+  {
+    "id": 86,
+    "quote": "A man who never lies has simply never needed to.",
+    "season": 8,
+    "episode": 5,
+    "episodeTitle": "Guillermo Rizal",
+    "tags": [
+      "truth",
+      "wit"
+    ]
+  },
+  {
+    "id": 97,
+    "quote": "Kindness is not weakness. It is the discipline of strength held in check.",
+    "season": 8,
+    "episode": 11,
+    "episodeTitle": "Twamie Ullulaq (No. 2)",
+    "tags": [
+      "wisdom",
+      "power"
+    ]
+  }
+]

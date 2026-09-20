@@ -1,0 +1,99 @@
+[
+  {
+    "id": 13,
+    "quote": "Loyalty isn't a word, it's a way of life.",
+    "season": 6,
+    "episode": 8,
+    "episodeTitle": "The Kazanjian Brothers",
+    "tags": [
+      "loyalty"
+    ]
+  },
+  {
+    "id": 14,
+    "quote": "I've buried a lot of people I've loved. It doesn't get easier. It gets different.",
+    "season": 6,
+    "episode": 21,
+    "episodeTitle": "Robert Diaz",
+    "tags": [
+      "grief",
+      "loss"
+    ]
+  },
+  {
+    "id": 30,
+    "quote": "Elizabeth Keen is like an animal in a cage that hasn't yet figured out the door is open.",
+    "season": 6,
+    "episode": 2,
+    "episodeTitle": "Louis T. Steinhil",
+    "tags": [
+      "observation",
+      "family"
+    ]
+  },
+  {
+    "id": 31,
+    "quote": "The truth doesn't cost you anything. It's the lies that get expensive.",
+    "season": 6,
+    "episode": 16,
+    "episodeTitle": "Dr. Linus Creel",
+    "tags": [
+      "truth",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 56,
+    "quote": "Some doors, once opened, can never be closed again.",
+    "season": 6,
+    "episode": 5,
+    "episodeTitle": "Dr. Adrian Shaw (No. 118)",
+    "tags": [
+      "past",
+      "warning"
+    ]
+  },
+  {
+    "id": 57,
+    "quote": "You want to survive this business? Never fall in love with your own story.",
+    "season": 6,
+    "episode": 11,
+    "episodeTitle": "Bastien Moreau",
+    "tags": [
+      "wisdom",
+      "identity"
+    ]
+  },
+  {
+    "id": 58,
+    "quote": "Vengeance is a debt that always collects interest.",
+    "season": 6,
+    "episode": 18,
+    "episodeTitle": "The Third Estate",
+    "tags": [
+      "revenge"
+    ]
+  },
+  {
+    "id": 84,
+    "quote": "Ambition without patience is just noise.",
+    "season": 6,
+    "episode": 9,
+    "episodeTitle": "The Corsican (No. 91)",
+    "tags": [
+      "wisdom",
+      "power"
+    ]
+  },
+  {
+    "id": 95,
+    "quote": "Every empire falls eventually. The trick is choosing when to let go of the reins.",
+    "season": 6,
+    "episode": 20,
+    "episodeTitle": "Godwin Page (No. 2)",
+    "tags": [
+      "power",
+      "legacy"
+    ]
+  }
+]

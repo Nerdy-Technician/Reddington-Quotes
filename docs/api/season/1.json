@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "quote": "Everyone leaves. That's what people do. They leave. And we are left to carry on.",
+    "season": 1,
+    "episode": 1,
+    "episodeTitle": "Pilot",
+    "tags": [
+      "loss",
+      "identity"
+    ]
+  },
+  {
+    "id": 2,
+    "quote": "I don't have friends. I have family, and I have people I do business with.",
+    "season": 1,
+    "episode": 2,
+    "episodeTitle": "The Freelancer",
+    "tags": [
+      "loyalty",
+      "family"
+    ]
+  },
+  {
+    "id": 3,
+    "quote": "The problems of your past are gone. But the problems of your future are just beginning.",
+    "season": 1,
+    "episode": 4,
+    "episodeTitle": "The Stewmaker",
+    "tags": [
+      "destiny",
+      "warning"
+    ]
+  },
+  {
+    "id": 4,
+    "quote": "You can't cheat honor. Either you have it, or you don't.",
+    "season": 1,
+    "episode": 6,
+    "episodeTitle": "Gina Zanetakos",
+    "tags": [
+      "honor"
+    ]
+  },
+  {
+    "id": 21,
+    "quote": "Killing you would be a disservice to the memory of everyone else I've killed.",
+    "season": 1,
+    "episode": 9,
+    "episodeTitle": "Anslo Garrick (No. 1)",
+    "tags": [
+      "threat",
+      "dark humor"
+    ]
+  },
+  {
+    "id": 22,
+    "quote": "Hate is a strong word. I prefer 'profound distaste'.",
+    "season": 1,
+    "episode": 13,
+    "episodeTitle": "The Cyprus Agency",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 36,
+    "quote": "I don't have hobbies. I had a wife once. That was quite absorbing.",
+    "season": 1,
+    "episode": 3,
+    "episodeTitle": "Wujing",
+    "tags": [
+      "wit",
+      "past"
+    ]
+  },
+  {
+    "id": 37,
+    "quote": "Sentiment is a luxury I gave up a long time ago.",
+    "season": 1,
+    "episode": 7,
+    "episodeTitle": "Frederick Barnes",
+    "tags": [
+      "identity"
+    ]
+  },
+  {
+    "id": 38,
+    "quote": "I've buried enough people to know grief doesn't end. It just changes shape.",
+    "season": 1,
+    "episode": 15,
+    "episodeTitle": "Berlin Duet (No. 1)",
+    "tags": [
+      "grief"
+    ]
+  },
+  {
+    "id": 39,
+    "quote": "Do you know what a shark is, Lizzy? A perfect eating machine that never stops moving. I like sharks.",
+    "season": 1,
+    "episode": 18,
+    "episodeTitle": "Milton Bobbit",
+    "tags": [
+      "wit",
+      "identity"
+    ]
+  },
+  {
+    "id": 40,
+    "quote": "A man who doesn't spend time with his family can never be a real man.",
+    "season": 1,
+    "episode": 21,
+    "episodeTitle": "Alexander Kirk (No. 1)",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": 88,
+    "quote": "I never trust a man who doesn't enjoy a good meal. It means he doesn't trust himself.",
+    "season": 1,
+    "episode": 11,
+    "episodeTitle": "The Good Samaritan",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 89,
+    "quote": "Nostalgia is a drug. I've learned to take it in very small doses.",
+    "season": 1,
+    "episode": 17,
+    "episodeTitle": "The Longevity Initiative",
+    "tags": [
+      "past",
+      "wit"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 71,
+    "quote": "I made a promise to a dying woman. Everything since has just been keeping it.",
+    "season": 10,
+    "episode": 1,
+    "episodeTitle": "The Skinner",
+    "tags": [
+      "sacrifice",
+      "family"
+    ]
+  },
+  {
+    "id": 72,
+    "quote": "Retirement is just another word for waiting to be found.",
+    "season": 10,
+    "episode": 3,
+    "episodeTitle": "No. 189: Vergil Gibbons",
+    "tags": [
+      "identity",
+      "wit"
+    ]
+  },
+  {
+    "id": 73,
+    "quote": "An empire built on secrets eventually becomes a prison made of them.",
+    "season": 10,
+    "episode": 6,
+    "episodeTitle": "Dr. Roberta Ling",
+    "tags": [
+      "power",
+      "secrets"
+    ]
+  },
+  {
+    "id": 74,
+    "quote": "Every man I've betrayed is a debt. I intend to die owing as few as possible.",
+    "season": 10,
+    "episode": 9,
+    "episodeTitle": "Bastien Moreau: The Decembrist",
+    "tags": [
+      "regret",
+      "identity"
+    ]
+  },
+  {
+    "id": 75,
+    "quote": "A congressman with a subpoena is still just a man with a piece of paper.",
+    "season": 10,
+    "episode": 11,
+    "episodeTitle": "Arthur Hudson",
+    "tags": [
+      "power",
+      "wit"
+    ]
+  },
+  {
+    "id": 76,
+    "quote": "I've spent my life staying one step ahead of the people who want me dead. Old habits don't retire either.",
+    "season": 10,
+    "episode": 14,
+    "episodeTitle": "Rakitin",
+    "tags": [
+      "survival",
+      "identity"
+    ]
+  },
+  {
+    "id": 77,
+    "quote": "Family isn't the people who share your blood. It's the people who show up when the bull is charging.",
+    "season": 10,
+    "episode": 18,
+    "episodeTitle": "Dembe Zuma",
+    "tags": [
+      "family",
+      "loyalty"
+    ]
+  },
+  {
+    "id": 78,
+    "quote": "I never asked to be remembered fondly. Just remembered accurately.",
+    "season": 10,
+    "episode": 20,
+    "episodeTitle": "The Harem",
+    "tags": [
+      "legacy",
+      "identity"
+    ]
+  },
+  {
+    "id": 79,
+    "quote": "The last chapter doesn't erase the ones before it. It just explains them.",
+    "season": 10,
+    "episode": 22,
+    "episodeTitle": "Finale",
+    "tags": [
+      "legacy",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 99,
+    "quote": "There's a difference between running from your past and finally outrunning it.",
+    "season": 10,
+    "episode": 8,
+    "episodeTitle": "Elizabeth Kirk (No. 2)",
+    "tags": [
+      "past",
+      "freedom"
+    ]
+  },
+  {
+    "id": 100,
+    "quote": "In the end, all any of us leave behind is who we chose to protect.",
+    "season": 10,
+    "episode": 22,
+    "episodeTitle": "Finale, Part 2",
+    "tags": [
+      "legacy",
+      "family"
+    ]
+  }
+]

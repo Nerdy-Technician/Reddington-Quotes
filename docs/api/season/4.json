@@ -1,0 +1,101 @@
+[
+  {
+    "id": 9,
+    "quote": "Secrets are a currency, Lizzy. Spend them wisely.",
+    "season": 4,
+    "episode": 5,
+    "episodeTitle": "Gaia",
+    "tags": [
+      "secrets",
+      "power"
+    ]
+  },
+  {
+    "id": 10,
+    "quote": "There's a difference between what is legal and what is right.",
+    "season": 4,
+    "episode": 13,
+    "episodeTitle": "Miss Rebecca Thrall",
+    "tags": [
+      "justice",
+      "morality"
+    ]
+  },
+  {
+    "id": 27,
+    "quote": "Whatever you're running from always catches up with you eventually.",
+    "season": 4,
+    "episode": 9,
+    "episodeTitle": "Isabella Stone",
+    "tags": [
+      "past",
+      "consequences"
+    ]
+  },
+  {
+    "id": 35,
+    "quote": "I'm a creature of habit and habits, like people, are hard to kill.",
+    "season": 4,
+    "episode": 20,
+    "episodeTitle": "Mato",
+    "tags": [
+      "identity",
+      "wit"
+    ]
+  },
+  {
+    "id": 49,
+    "quote": "I've made peace with the things I can't change, and war with the things I can.",
+    "season": 4,
+    "episode": 2,
+    "episodeTitle": "Requiem",
+    "tags": [
+      "wisdom",
+      "identity"
+    ]
+  },
+  {
+    "id": 50,
+    "quote": "Everyone has a price. The trick is figuring out what currency they deal in.",
+    "season": 4,
+    "episode": 8,
+    "episodeTitle": "Ian Garvey (No. 1)",
+    "tags": [
+      "power",
+      "manipulation"
+    ]
+  },
+  {
+    "id": 51,
+    "quote": "Don't mistake my kindness for weakness. I'm just choosing not to be cruel today.",
+    "season": 4,
+    "episode": 16,
+    "episodeTitle": "Marko Jankowics",
+    "tags": [
+      "power",
+      "wit"
+    ]
+  },
+  {
+    "id": 82,
+    "quote": "The people who scare me most are the ones who never raise their voice.",
+    "season": 4,
+    "episode": 6,
+    "episodeTitle": "The Thrushes",
+    "tags": [
+      "wisdom",
+      "fear"
+    ]
+  },
+  {
+    "id": 93,
+    "quote": "A good enemy is worth more than a mediocre friend. At least you know where you stand.",
+    "season": 4,
+    "episode": 4,
+    "episodeTitle": "Miss Rebecca Thrall (No. 2)",
+    "tags": [
+      "wit",
+      "trust"
+    ]
+  }
+]

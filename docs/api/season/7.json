@@ -1,0 +1,98 @@
+[
+  {
+    "id": 15,
+    "quote": "Power isn't given. It's taken, one decision at a time.",
+    "season": 7,
+    "episode": 4,
+    "episodeTitle": "Twamie Ullulaq",
+    "tags": [
+      "power"
+    ]
+  },
+  {
+    "id": 16,
+    "quote": "Every man has a code. Mine just happens to be unwritten.",
+    "season": 7,
+    "episode": 15,
+    "episodeTitle": "Konets",
+    "tags": [
+      "identity",
+      "honor"
+    ]
+  },
+  {
+    "id": 32,
+    "quote": "I've learned that the people you can't live without are the ones most likely to leave you.",
+    "season": 7,
+    "episode": 9,
+    "episodeTitle": "Louis T. Steinhil (No. 92)",
+    "tags": [
+      "loss",
+      "family"
+    ]
+  },
+  {
+    "id": 59,
+    "quote": "I've never met a problem money couldn't complicate further.",
+    "season": 7,
+    "episode": 2,
+    "episodeTitle": "Louis T. Steinhil (No. 91)",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 60,
+    "quote": "The wise man plans for betrayal before he needs to forgive it.",
+    "season": 7,
+    "episode": 7,
+    "episodeTitle": "BB Jones",
+    "tags": [
+      "wisdom",
+      "trust"
+    ]
+  },
+  {
+    "id": 61,
+    "quote": "A promise is only as good as the person willing to break it for you.",
+    "season": 7,
+    "episode": 12,
+    "episodeTitle": "Nicholas Obenrader",
+    "tags": [
+      "trust",
+      "loyalty"
+    ]
+  },
+  {
+    "id": 62,
+    "quote": "Some men are haunted by ghosts. I'm haunted by choices.",
+    "season": 7,
+    "episode": 18,
+    "episodeTitle": "Godwin Page",
+    "tags": [
+      "regret"
+    ]
+  },
+  {
+    "id": 85,
+    "quote": "I've been called many things. Only one of them ever really mattered: hers.",
+    "season": 7,
+    "episode": 14,
+    "episodeTitle": "Katarina Rostova",
+    "tags": [
+      "identity",
+      "family"
+    ]
+  },
+  {
+    "id": 96,
+    "quote": "I've never been afraid of dying. I've only ever been afraid of being forgotten.",
+    "season": 7,
+    "episode": 5,
+    "episodeTitle": "Anna Mccmahon (No. 2)",
+    "tags": [
+      "mortality",
+      "legacy"
+    ]
+  }
+]

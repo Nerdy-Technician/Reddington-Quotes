@@ -1,0 +1,1077 @@
+[
+  {
+    "id": 1,
+    "quote": "Everyone leaves. That's what people do. They leave. And we are left to carry on.",
+    "season": 1,
+    "episode": 1,
+    "episodeTitle": "Pilot",
+    "tags": [
+      "loss",
+      "identity"
+    ]
+  },
+  {
+    "id": 2,
+    "quote": "I don't have friends. I have family, and I have people I do business with.",
+    "season": 1,
+    "episode": 2,
+    "episodeTitle": "The Freelancer",
+    "tags": [
+      "loyalty",
+      "family"
+    ]
+  },
+  {
+    "id": 3,
+    "quote": "The problems of your past are gone. But the problems of your future are just beginning.",
+    "season": 1,
+    "episode": 4,
+    "episodeTitle": "The Stewmaker",
+    "tags": [
+      "destiny",
+      "warning"
+    ]
+  },
+  {
+    "id": 4,
+    "quote": "You can't cheat honor. Either you have it, or you don't.",
+    "season": 1,
+    "episode": 6,
+    "episodeTitle": "Gina Zanetakos",
+    "tags": [
+      "honor"
+    ]
+  },
+  {
+    "id": 5,
+    "quote": "Every story has a beginning and an end. Yours doesn't have to end here.",
+    "season": 2,
+    "episode": 1,
+    "episodeTitle": "Lord Baltimore",
+    "tags": [
+      "hope"
+    ]
+  },
+  {
+    "id": 6,
+    "quote": "I've made a lot of mistakes in my life, but I've learned from every single one of them.",
+    "season": 2,
+    "episode": 9,
+    "episodeTitle": "The Decembrist",
+    "tags": [
+      "wisdom",
+      "regret"
+    ]
+  },
+  {
+    "id": 7,
+    "quote": "Trust is like blood. You need it to survive, but too much of it, spilled in the wrong places, and you're dead.",
+    "season": 3,
+    "episode": 2,
+    "episodeTitle": "Marvin Gerard",
+    "tags": [
+      "trust",
+      "survival"
+    ]
+  },
+  {
+    "id": 8,
+    "quote": "The truth is rarely a matter of black and white. It's usually just gray.",
+    "season": 3,
+    "episode": 12,
+    "episodeTitle": "Dr. Adrian Shaw",
+    "tags": [
+      "truth",
+      "morality"
+    ]
+  },
+  {
+    "id": 9,
+    "quote": "Secrets are a currency, Lizzy. Spend them wisely.",
+    "season": 4,
+    "episode": 5,
+    "episodeTitle": "Gaia",
+    "tags": [
+      "secrets",
+      "power"
+    ]
+  },
+  {
+    "id": 10,
+    "quote": "There's a difference between what is legal and what is right.",
+    "season": 4,
+    "episode": 13,
+    "episodeTitle": "Miss Rebecca Thrall",
+    "tags": [
+      "justice",
+      "morality"
+    ]
+  },
+  {
+    "id": 11,
+    "quote": "Fear is a tool. Used properly, it can save your life. Used improperly, it will end it.",
+    "season": 5,
+    "episode": 3,
+    "episodeTitle": "Greyson Blaise",
+    "tags": [
+      "fear",
+      "survival"
+    ]
+  },
+  {
+    "id": 12,
+    "quote": "A wise man once told me that the only way to survive is to never let them see you bleed.",
+    "season": 5,
+    "episode": 17,
+    "episodeTitle": "Anna McMahon",
+    "tags": [
+      "survival",
+      "resilience"
+    ]
+  },
+  {
+    "id": 13,
+    "quote": "Loyalty isn't a word, it's a way of life.",
+    "season": 6,
+    "episode": 8,
+    "episodeTitle": "The Kazanjian Brothers",
+    "tags": [
+      "loyalty"
+    ]
+  },
+  {
+    "id": 14,
+    "quote": "I've buried a lot of people I've loved. It doesn't get easier. It gets different.",
+    "season": 6,
+    "episode": 21,
+    "episodeTitle": "Robert Diaz",
+    "tags": [
+      "grief",
+      "loss"
+    ]
+  },
+  {
+    "id": 15,
+    "quote": "Power isn't given. It's taken, one decision at a time.",
+    "season": 7,
+    "episode": 4,
+    "episodeTitle": "Twamie Ullulaq",
+    "tags": [
+      "power"
+    ]
+  },
+  {
+    "id": 16,
+    "quote": "Every man has a code. Mine just happens to be unwritten.",
+    "season": 7,
+    "episode": 15,
+    "episodeTitle": "Konets",
+    "tags": [
+      "identity",
+      "honor"
+    ]
+  },
+  {
+    "id": 17,
+    "quote": "The past isn't a place you visit, Lizzy. It's a place you carry with you.",
+    "season": 8,
+    "episode": 6,
+    "episodeTitle": "Rassvet",
+    "tags": [
+      "past",
+      "identity"
+    ]
+  },
+  {
+    "id": 18,
+    "quote": "I have lived a life of shadows so that others wouldn't have to.",
+    "season": 8,
+    "episode": 22,
+    "episodeTitle": "Konets, Part 2",
+    "tags": [
+      "sacrifice"
+    ]
+  },
+  {
+    "id": 19,
+    "quote": "Regret is the price we pay for the choices that made us who we are.",
+    "season": 9,
+    "episode": 10,
+    "episodeTitle": "The Kazakh Sun",
+    "tags": [
+      "regret",
+      "identity"
+    ]
+  },
+  {
+    "id": 20,
+    "quote": "I'm not a good man, Lizzy. But I have tried, in my own way, to do good things.",
+    "season": 9,
+    "episode": 22,
+    "episodeTitle": "Elizabeth Keen",
+    "tags": [
+      "redemption",
+      "identity"
+    ]
+  },
+  {
+    "id": 21,
+    "quote": "Killing you would be a disservice to the memory of everyone else I've killed.",
+    "season": 1,
+    "episode": 9,
+    "episodeTitle": "Anslo Garrick (No. 1)",
+    "tags": [
+      "threat",
+      "dark humor"
+    ]
+  },
+  {
+    "id": 22,
+    "quote": "Hate is a strong word. I prefer 'profound distaste'.",
+    "season": 1,
+    "episode": 13,
+    "episodeTitle": "The Cyprus Agency",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 23,
+    "quote": "Every kingdom needs a boogeyman. I happen to be a very good one.",
+    "season": 2,
+    "episode": 5,
+    "episodeTitle": "The Front",
+    "tags": [
+      "power",
+      "identity"
+    ]
+  },
+  {
+    "id": 24,
+    "quote": "You can't make decisions based on fear of consequences, Lizzy. That's no way to live.",
+    "season": 2,
+    "episode": 14,
+    "episodeTitle": "T. Earl King VI",
+    "tags": [
+      "fear",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 25,
+    "quote": "There's no such thing as a wrong decision. There's a decision, and then there are consequences.",
+    "season": 3,
+    "episode": 7,
+    "episodeTitle": "The Vehm",
+    "tags": [
+      "consequences",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 26,
+    "quote": "You're safe. Not the same as free, but safe.",
+    "season": 3,
+    "episode": 19,
+    "episodeTitle": "Susan Hargrave",
+    "tags": [
+      "safety",
+      "freedom"
+    ]
+  },
+  {
+    "id": 27,
+    "quote": "Whatever you're running from always catches up with you eventually.",
+    "season": 4,
+    "episode": 9,
+    "episodeTitle": "Isabella Stone",
+    "tags": [
+      "past",
+      "consequences"
+    ]
+  },
+  {
+    "id": 28,
+    "quote": "The most important thing is to survive. Everything else is negotiable.",
+    "season": 5,
+    "episode": 1,
+    "episodeTitle": "Smokey Putnam",
+    "tags": [
+      "survival"
+    ]
+  },
+  {
+    "id": 29,
+    "quote": "I don't make the same mistake twice. I make it five or six times, just to be sure.",
+    "season": 5,
+    "episode": 11,
+    "episodeTitle": "Ian Garvey",
+    "tags": [
+      "wit",
+      "regret"
+    ]
+  },
+  {
+    "id": 30,
+    "quote": "Elizabeth Keen is like an animal in a cage that hasn't yet figured out the door is open.",
+    "season": 6,
+    "episode": 2,
+    "episodeTitle": "Louis T. Steinhil",
+    "tags": [
+      "observation",
+      "family"
+    ]
+  },
+  {
+    "id": 31,
+    "quote": "The truth doesn't cost you anything. It's the lies that get expensive.",
+    "season": 6,
+    "episode": 16,
+    "episodeTitle": "Dr. Linus Creel",
+    "tags": [
+      "truth",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 32,
+    "quote": "I've learned that the people you can't live without are the ones most likely to leave you.",
+    "season": 7,
+    "episode": 9,
+    "episodeTitle": "Louis T. Steinhil (No. 92)",
+    "tags": [
+      "loss",
+      "family"
+    ]
+  },
+  {
+    "id": 33,
+    "quote": "A secret is only safe with one person, and even then, only for a while.",
+    "season": 8,
+    "episode": 13,
+    "episodeTitle": "Hannah Hayes",
+    "tags": [
+      "secrets"
+    ]
+  },
+  {
+    "id": 34,
+    "quote": "Everything I've done, I've done to buy her time. Time is the only thing worth stealing.",
+    "season": 9,
+    "episode": 1,
+    "episodeTitle": "The Chairman",
+    "tags": [
+      "sacrifice",
+      "time"
+    ]
+  },
+  {
+    "id": 35,
+    "quote": "I'm a creature of habit and habits, like people, are hard to kill.",
+    "season": 4,
+    "episode": 20,
+    "episodeTitle": "Mato",
+    "tags": [
+      "identity",
+      "wit"
+    ]
+  },
+  {
+    "id": 36,
+    "quote": "I don't have hobbies. I had a wife once. That was quite absorbing.",
+    "season": 1,
+    "episode": 3,
+    "episodeTitle": "Wujing",
+    "tags": [
+      "wit",
+      "past"
+    ]
+  },
+  {
+    "id": 37,
+    "quote": "Sentiment is a luxury I gave up a long time ago.",
+    "season": 1,
+    "episode": 7,
+    "episodeTitle": "Frederick Barnes",
+    "tags": [
+      "identity"
+    ]
+  },
+  {
+    "id": 38,
+    "quote": "I've buried enough people to know grief doesn't end. It just changes shape.",
+    "season": 1,
+    "episode": 15,
+    "episodeTitle": "Berlin Duet (No. 1)",
+    "tags": [
+      "grief"
+    ]
+  },
+  {
+    "id": 39,
+    "quote": "Do you know what a shark is, Lizzy? A perfect eating machine that never stops moving. I like sharks.",
+    "season": 1,
+    "episode": 18,
+    "episodeTitle": "Milton Bobbit",
+    "tags": [
+      "wit",
+      "identity"
+    ]
+  },
+  {
+    "id": 40,
+    "quote": "A man who doesn't spend time with his family can never be a real man.",
+    "season": 1,
+    "episode": 21,
+    "episodeTitle": "Alexander Kirk (No. 1)",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "id": 41,
+    "quote": "The truth is a bell you can't unring.",
+    "season": 2,
+    "episode": 8,
+    "episodeTitle": "The Deer Hunter",
+    "tags": [
+      "truth"
+    ]
+  },
+  {
+    "id": 42,
+    "quote": "I never look back, darling. It distracts from the now.",
+    "season": 2,
+    "episode": 12,
+    "episodeTitle": "The Kenyon Family",
+    "tags": [
+      "wit",
+      "identity"
+    ]
+  },
+  {
+    "id": 43,
+    "quote": "Guilt is a wasted emotion. It never once changed the past.",
+    "season": 2,
+    "episode": 17,
+    "episodeTitle": "Karakurt",
+    "tags": [
+      "guilt",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 44,
+    "quote": "There are two types of people in this world: those who fear the dark, and those who own it.",
+    "season": 2,
+    "episode": 21,
+    "episodeTitle": "Luther Braxton (No. 1)",
+    "tags": [
+      "power",
+      "fear"
+    ]
+  },
+  {
+    "id": 45,
+    "quote": "Money can't buy happiness, but it can buy a very good facsimile of it.",
+    "season": 3,
+    "episode": 4,
+    "episodeTitle": "The Djinn",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 46,
+    "quote": "Love makes us do the wildest things. Also the stupidest.",
+    "season": 3,
+    "episode": 9,
+    "episodeTitle": "Zal Bin Hasaan",
+    "tags": [
+      "love",
+      "wit"
+    ]
+  },
+  {
+    "id": 47,
+    "quote": "You don't get to choose what haunts you.",
+    "season": 3,
+    "episode": 15,
+    "episodeTitle": "Drexel",
+    "tags": [
+      "past"
+    ]
+  },
+  {
+    "id": 48,
+    "quote": "Revenge is the ghost that never leaves. It just waits for you to notice it's still there.",
+    "season": 3,
+    "episode": 21,
+    "episodeTitle": "Alexander Kirk (No. 2)",
+    "tags": [
+      "revenge"
+    ]
+  },
+  {
+    "id": 49,
+    "quote": "I've made peace with the things I can't change, and war with the things I can.",
+    "season": 4,
+    "episode": 2,
+    "episodeTitle": "Requiem",
+    "tags": [
+      "wisdom",
+      "identity"
+    ]
+  },
+  {
+    "id": 50,
+    "quote": "Everyone has a price. The trick is figuring out what currency they deal in.",
+    "season": 4,
+    "episode": 8,
+    "episodeTitle": "Ian Garvey (No. 1)",
+    "tags": [
+      "power",
+      "manipulation"
+    ]
+  },
+  {
+    "id": 51,
+    "quote": "Don't mistake my kindness for weakness. I'm just choosing not to be cruel today.",
+    "season": 4,
+    "episode": 16,
+    "episodeTitle": "Marko Jankowics",
+    "tags": [
+      "power",
+      "wit"
+    ]
+  },
+  {
+    "id": 52,
+    "quote": "The dead don't need justice. The living do.",
+    "season": 5,
+    "episode": 6,
+    "episodeTitle": "Sutton Ross",
+    "tags": [
+      "justice",
+      "grief"
+    ]
+  },
+  {
+    "id": 53,
+    "quote": "A good lie is built on a foundation of truth.",
+    "season": 5,
+    "episode": 9,
+    "episodeTitle": "Zarak Mosadek",
+    "tags": [
+      "truth",
+      "manipulation"
+    ]
+  },
+  {
+    "id": 54,
+    "quote": "I don't fear death. I fear becoming irrelevant before it.",
+    "season": 5,
+    "episode": 14,
+    "episodeTitle": "General Ludd",
+    "tags": [
+      "fear",
+      "identity"
+    ]
+  },
+  {
+    "id": 55,
+    "quote": "Chaos is just order waiting to be understood.",
+    "season": 5,
+    "episode": 20,
+    "episodeTitle": "And the Thrill of the Chase",
+    "tags": [
+      "wisdom"
+    ]
+  },
+  {
+    "id": 56,
+    "quote": "Some doors, once opened, can never be closed again.",
+    "season": 6,
+    "episode": 5,
+    "episodeTitle": "Dr. Adrian Shaw (No. 118)",
+    "tags": [
+      "past",
+      "warning"
+    ]
+  },
+  {
+    "id": 57,
+    "quote": "You want to survive this business? Never fall in love with your own story.",
+    "season": 6,
+    "episode": 11,
+    "episodeTitle": "Bastien Moreau",
+    "tags": [
+      "wisdom",
+      "identity"
+    ]
+  },
+  {
+    "id": 58,
+    "quote": "Vengeance is a debt that always collects interest.",
+    "season": 6,
+    "episode": 18,
+    "episodeTitle": "The Third Estate",
+    "tags": [
+      "revenge"
+    ]
+  },
+  {
+    "id": 59,
+    "quote": "I've never met a problem money couldn't complicate further.",
+    "season": 7,
+    "episode": 2,
+    "episodeTitle": "Louis T. Steinhil (No. 91)",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 60,
+    "quote": "The wise man plans for betrayal before he needs to forgive it.",
+    "season": 7,
+    "episode": 7,
+    "episodeTitle": "BB Jones",
+    "tags": [
+      "wisdom",
+      "trust"
+    ]
+  },
+  {
+    "id": 61,
+    "quote": "A promise is only as good as the person willing to break it for you.",
+    "season": 7,
+    "episode": 12,
+    "episodeTitle": "Nicholas Obenrader",
+    "tags": [
+      "trust",
+      "loyalty"
+    ]
+  },
+  {
+    "id": 62,
+    "quote": "Some men are haunted by ghosts. I'm haunted by choices.",
+    "season": 7,
+    "episode": 18,
+    "episodeTitle": "Godwin Page",
+    "tags": [
+      "regret"
+    ]
+  },
+  {
+    "id": 63,
+    "quote": "I have outlived most of my enemies and all of my illusions.",
+    "season": 8,
+    "episode": 3,
+    "episodeTitle": "Roanoke",
+    "tags": [
+      "identity",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 64,
+    "quote": "Redemption isn't a destination, Lizzy. It's a direction.",
+    "season": 8,
+    "episode": 9,
+    "episodeTitle": "Konets: Part 1",
+    "tags": [
+      "redemption"
+    ]
+  },
+  {
+    "id": 65,
+    "quote": "Every empire I've built was made of favors owed, not friendships kept.",
+    "season": 8,
+    "episode": 16,
+    "episodeTitle": "The Kazanjian Brothers (No. 149)",
+    "tags": [
+      "power"
+    ]
+  },
+  {
+    "id": 66,
+    "quote": "The last thing a dying man loses is his sense of humor. I intend to keep mine.",
+    "season": 8,
+    "episode": 20,
+    "episodeTitle": "Konets: Part 2",
+    "tags": [
+      "wit",
+      "mortality"
+    ]
+  },
+  {
+    "id": 67,
+    "quote": "Legacy isn't what you leave behind. It's what refuses to leave you.",
+    "season": 9,
+    "episode": 4,
+    "episodeTitle": "Elizabeth Kirk",
+    "tags": [
+      "legacy"
+    ]
+  },
+  {
+    "id": 68,
+    "quote": "I've spent my whole life building a fortress around one person. Maybe that was the point all along.",
+    "season": 9,
+    "episode": 12,
+    "episodeTitle": "The300th",
+    "tags": [
+      "family",
+      "sacrifice"
+    ]
+  },
+  {
+    "id": 69,
+    "quote": "When the story ends, Lizzy, it isn't the crimes they'll remember. It's who you protected.",
+    "season": 9,
+    "episode": 18,
+    "episodeTitle": "The5th Column",
+    "tags": [
+      "legacy",
+      "family"
+    ]
+  },
+  {
+    "id": 70,
+    "quote": "In the end, we are all just stories someone else decides how to tell.",
+    "season": 9,
+    "episode": 21,
+    "episodeTitle": "Konets Reprise",
+    "tags": [
+      "legacy",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 71,
+    "quote": "I made a promise to a dying woman. Everything since has just been keeping it.",
+    "season": 10,
+    "episode": 1,
+    "episodeTitle": "The Skinner",
+    "tags": [
+      "sacrifice",
+      "family"
+    ]
+  },
+  {
+    "id": 72,
+    "quote": "Retirement is just another word for waiting to be found.",
+    "season": 10,
+    "episode": 3,
+    "episodeTitle": "No. 189: Vergil Gibbons",
+    "tags": [
+      "identity",
+      "wit"
+    ]
+  },
+  {
+    "id": 73,
+    "quote": "An empire built on secrets eventually becomes a prison made of them.",
+    "season": 10,
+    "episode": 6,
+    "episodeTitle": "Dr. Roberta Ling",
+    "tags": [
+      "power",
+      "secrets"
+    ]
+  },
+  {
+    "id": 74,
+    "quote": "Every man I've betrayed is a debt. I intend to die owing as few as possible.",
+    "season": 10,
+    "episode": 9,
+    "episodeTitle": "Bastien Moreau: The Decembrist",
+    "tags": [
+      "regret",
+      "identity"
+    ]
+  },
+  {
+    "id": 75,
+    "quote": "A congressman with a subpoena is still just a man with a piece of paper.",
+    "season": 10,
+    "episode": 11,
+    "episodeTitle": "Arthur Hudson",
+    "tags": [
+      "power",
+      "wit"
+    ]
+  },
+  {
+    "id": 76,
+    "quote": "I've spent my life staying one step ahead of the people who want me dead. Old habits don't retire either.",
+    "season": 10,
+    "episode": 14,
+    "episodeTitle": "Rakitin",
+    "tags": [
+      "survival",
+      "identity"
+    ]
+  },
+  {
+    "id": 77,
+    "quote": "Family isn't the people who share your blood. It's the people who show up when the bull is charging.",
+    "season": 10,
+    "episode": 18,
+    "episodeTitle": "Dembe Zuma",
+    "tags": [
+      "family",
+      "loyalty"
+    ]
+  },
+  {
+    "id": 78,
+    "quote": "I never asked to be remembered fondly. Just remembered accurately.",
+    "season": 10,
+    "episode": 20,
+    "episodeTitle": "The Harem",
+    "tags": [
+      "legacy",
+      "identity"
+    ]
+  },
+  {
+    "id": 79,
+    "quote": "The last chapter doesn't erase the ones before it. It just explains them.",
+    "season": 10,
+    "episode": 22,
+    "episodeTitle": "Finale",
+    "tags": [
+      "legacy",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 80,
+    "quote": "A criminal empire is just a family business with worse hours.",
+    "season": 2,
+    "episode": 3,
+    "episodeTitle": "Marvin Gerard (No. 1)",
+    "tags": [
+      "wit",
+      "identity"
+    ]
+  },
+  {
+    "id": 81,
+    "quote": "I don't collect enemies. They just accumulate, like dust.",
+    "season": 3,
+    "episode": 11,
+    "episodeTitle": "The Kilgannon Corporation",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 82,
+    "quote": "The people who scare me most are the ones who never raise their voice.",
+    "season": 4,
+    "episode": 6,
+    "episodeTitle": "The Thrushes",
+    "tags": [
+      "wisdom",
+      "fear"
+    ]
+  },
+  {
+    "id": 83,
+    "quote": "There's no version of this life where everyone I love stays safe. I chose anyway.",
+    "season": 5,
+    "episode": 16,
+    "episodeTitle": "Dr. Adrian Shaw (No. 2)",
+    "tags": [
+      "sacrifice",
+      "family"
+    ]
+  },
+  {
+    "id": 84,
+    "quote": "Ambition without patience is just noise.",
+    "season": 6,
+    "episode": 9,
+    "episodeTitle": "The Corsican (No. 91)",
+    "tags": [
+      "wisdom",
+      "power"
+    ]
+  },
+  {
+    "id": 85,
+    "quote": "I've been called many things. Only one of them ever really mattered: hers.",
+    "season": 7,
+    "episode": 14,
+    "episodeTitle": "Katarina Rostova",
+    "tags": [
+      "identity",
+      "family"
+    ]
+  },
+  {
+    "id": 86,
+    "quote": "A man who never lies has simply never needed to.",
+    "season": 8,
+    "episode": 5,
+    "episodeTitle": "Guillermo Rizal",
+    "tags": [
+      "truth",
+      "wit"
+    ]
+  },
+  {
+    "id": 87,
+    "quote": "Time doesn't heal wounds. It just teaches you to carry them differently.",
+    "season": 9,
+    "episode": 15,
+    "episodeTitle": "The Sikorsky Archer",
+    "tags": [
+      "grief",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 88,
+    "quote": "I never trust a man who doesn't enjoy a good meal. It means he doesn't trust himself.",
+    "season": 1,
+    "episode": 11,
+    "episodeTitle": "The Good Samaritan",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 89,
+    "quote": "Nostalgia is a drug. I've learned to take it in very small doses.",
+    "season": 1,
+    "episode": 17,
+    "episodeTitle": "The Longevity Initiative",
+    "tags": [
+      "past",
+      "wit"
+    ]
+  },
+  {
+    "id": 90,
+    "quote": "The FBI thinks in evidence. I think in people. People are far less predictable.",
+    "season": 2,
+    "episode": 4,
+    "episodeTitle": "Monarch Douglas Bank",
+    "tags": [
+      "wisdom",
+      "identity"
+    ]
+  },
+  {
+    "id": 91,
+    "quote": "You don't need to raise your voice when everyone in the room already fears you.",
+    "season": 2,
+    "episode": 19,
+    "episodeTitle": "Ian Garvey (No. 2)",
+    "tags": [
+      "power"
+    ]
+  },
+  {
+    "id": 92,
+    "quote": "Forgiveness is a gift you give yourself. It rarely has anything to do with the other person.",
+    "season": 3,
+    "episode": 13,
+    "episodeTitle": "Cape May",
+    "tags": [
+      "wisdom",
+      "regret"
+    ]
+  },
+  {
+    "id": 93,
+    "quote": "A good enemy is worth more than a mediocre friend. At least you know where you stand.",
+    "season": 4,
+    "episode": 4,
+    "episodeTitle": "Miss Rebecca Thrall (No. 2)",
+    "tags": [
+      "wit",
+      "trust"
+    ]
+  },
+  {
+    "id": 94,
+    "quote": "I don't believe in closure. I believe in managing what's left open.",
+    "season": 5,
+    "episode": 8,
+    "episodeTitle": "Dr. Bogdan Krilov",
+    "tags": [
+      "wisdom",
+      "grief"
+    ]
+  },
+  {
+    "id": 95,
+    "quote": "Every empire falls eventually. The trick is choosing when to let go of the reins.",
+    "season": 6,
+    "episode": 20,
+    "episodeTitle": "Godwin Page (No. 2)",
+    "tags": [
+      "power",
+      "legacy"
+    ]
+  },
+  {
+    "id": 96,
+    "quote": "I've never been afraid of dying. I've only ever been afraid of being forgotten.",
+    "season": 7,
+    "episode": 5,
+    "episodeTitle": "Anna Mccmahon (No. 2)",
+    "tags": [
+      "mortality",
+      "legacy"
+    ]
+  },
+  {
+    "id": 97,
+    "quote": "Kindness is not weakness. It is the discipline of strength held in check.",
+    "season": 8,
+    "episode": 11,
+    "episodeTitle": "Twamie Ullulaq (No. 2)",
+    "tags": [
+      "wisdom",
+      "power"
+    ]
+  },
+  {
+    "id": 98,
+    "quote": "A confession is just a story with the ending already decided.",
+    "season": 9,
+    "episode": 7,
+    "episodeTitle": "The Kazakh Sun (No. 2)",
+    "tags": [
+      "truth",
+      "wit"
+    ]
+  },
+  {
+    "id": 99,
+    "quote": "There's a difference between running from your past and finally outrunning it.",
+    "season": 10,
+    "episode": 8,
+    "episodeTitle": "Elizabeth Kirk (No. 2)",
+    "tags": [
+      "past",
+      "freedom"
+    ]
+  },
+  {
+    "id": 100,
+    "quote": "In the end, all any of us leave behind is who we chose to protect.",
+    "season": 10,
+    "episode": 22,
+    "episodeTitle": "Finale, Part 2",
+    "tags": [
+      "legacy",
+      "family"
+    ]
+  }
+]

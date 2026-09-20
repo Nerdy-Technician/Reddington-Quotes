@@ -1,0 +1,135 @@
+:root {
+  --bg: #14100e;
+  --panel: #1f1a17;
+  --accent: #b5121b;
+  --text: #eee8e2;
+  --muted: #a89c92;
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+header {
+  padding: 2.5rem 1.5rem 1.5rem;
+  text-align: center;
+  border-bottom: 2px solid var(--accent);
+}
+
+header h1 {
+  margin: 0 0 0.5rem;
+  letter-spacing: 0.02em;
+}
+
+.subtitle {
+  color: var(--muted);
+  margin: 0;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-end;
+  margin-bottom: 1.5rem;
+}
+
+.controls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+  color: var(--muted);
+  gap: 0.25rem;
+}
+
+.search-label {
+  flex: 1;
+  min-width: 200px;
+}
+
+select,
+input,
+button {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid #3a2f2a;
+  border-radius: 6px;
+  padding: 0.5rem 0.7rem;
+  font-size: 0.95rem;
+}
+
+button {
+  cursor: pointer;
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  align-self: flex-end;
+}
+
+button:hover {
+  filter: brightness(1.1);
+}
+
+.quote-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.quote-card {
+  background: var(--panel);
+  border-left: 4px solid var(--accent);
+  padding: 1rem 1.25rem;
+  border-radius: 4px;
+}
+
+.quote-text {
+  font-size: 1.1rem;
+  font-style: italic;
+  margin: 0 0 0.6rem;
+}
+
+.quote-meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.api-docs {
+  margin-top: 3rem;
+  border-top: 1px solid #3a2f2a;
+  padding-top: 1.5rem;
+}
+
+.api-docs code {
+  background: var(--panel);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+}
+
+.api-docs pre {
+  background: var(--panel);
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  padding: 2rem;
+  font-size: 0.85rem;
+}

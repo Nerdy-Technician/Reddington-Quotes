@@ -1,0 +1,108 @@
+[
+  {
+    "id": 7,
+    "quote": "Trust is like blood. You need it to survive, but too much of it, spilled in the wrong places, and you're dead.",
+    "season": 3,
+    "episode": 2,
+    "episodeTitle": "Marvin Gerard",
+    "tags": [
+      "trust",
+      "survival"
+    ]
+  },
+  {
+    "id": 8,
+    "quote": "The truth is rarely a matter of black and white. It's usually just gray.",
+    "season": 3,
+    "episode": 12,
+    "episodeTitle": "Dr. Adrian Shaw",
+    "tags": [
+      "truth",
+      "morality"
+    ]
+  },
+  {
+    "id": 25,
+    "quote": "There's no such thing as a wrong decision. There's a decision, and then there are consequences.",
+    "season": 3,
+    "episode": 7,
+    "episodeTitle": "The Vehm",
+    "tags": [
+      "consequences",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 26,
+    "quote": "You're safe. Not the same as free, but safe.",
+    "season": 3,
+    "episode": 19,
+    "episodeTitle": "Susan Hargrave",
+    "tags": [
+      "safety",
+      "freedom"
+    ]
+  },
+  {
+    "id": 45,
+    "quote": "Money can't buy happiness, but it can buy a very good facsimile of it.",
+    "season": 3,
+    "episode": 4,
+    "episodeTitle": "The Djinn",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 46,
+    "quote": "Love makes us do the wildest things. Also the stupidest.",
+    "season": 3,
+    "episode": 9,
+    "episodeTitle": "Zal Bin Hasaan",
+    "tags": [
+      "love",
+      "wit"
+    ]
+  },
+  {
+    "id": 47,
+    "quote": "You don't get to choose what haunts you.",
+    "season": 3,
+    "episode": 15,
+    "episodeTitle": "Drexel",
+    "tags": [
+      "past"
+    ]
+  },
+  {
+    "id": 48,
+    "quote": "Revenge is the ghost that never leaves. It just waits for you to notice it's still there.",
+    "season": 3,
+    "episode": 21,
+    "episodeTitle": "Alexander Kirk (No. 2)",
+    "tags": [
+      "revenge"
+    ]
+  },
+  {
+    "id": 81,
+    "quote": "I don't collect enemies. They just accumulate, like dust.",
+    "season": 3,
+    "episode": 11,
+    "episodeTitle": "The Kilgannon Corporation",
+    "tags": [
+      "wit"
+    ]
+  },
+  {
+    "id": 92,
+    "quote": "Forgiveness is a gift you give yourself. It rarely has anything to do with the other person.",
+    "season": 3,
+    "episode": 13,
+    "episodeTitle": "Cape May",
+    "tags": [
+      "wisdom",
+      "regret"
+    ]
+  }
+]

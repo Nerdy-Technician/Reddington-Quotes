@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Reddington Quote API</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Raymond &ldquo;Red&rdquo; Reddington &mdash; Quote API</h1>
+    <p class="subtitle">Best quotes from The Blacklist, browsable here and fetchable as JSON.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <label>
+        Season
+        <select id="season-filter">
+          <option value="">All seasons</option>
+        </select>
+      </label>
+      <label>
+        Episode
+        <select id="episode-filter">
+          <option value="">All episodes</option>
+        </select>
+      </label>
+      <label class="search-label">
+        Search
+        <input id="search-box" type="text" placeholder="Search quote text or tags..." />
+      </label>
+      <button id="random-btn" type="button">Random Quote</button>
+    </section>
+
+    <section id="quote-list" class="quote-list"></section>
+
+    <section class="api-docs">
+      <h2>API endpoints (static JSON, no server required)</h2>
+      <ul>
+        <li><code>GET /api/quotes.json</code> &mdash; all quotes</li>
+        <li><code>GET /api/quotes/&lt;id&gt;.json</code> &mdash; single quote by id</li>
+        <li><code>GET /api/seasons.json</code> &mdash; list of seasons with quote counts</li>
+        <li><code>GET /api/season/&lt;season&gt;.json</code> &mdash; all quotes for a season</li>
+        <li><code>GET /api/season/&lt;season&gt;/episode/&lt;episode&gt;.json</code> &mdash; quotes for a specific episode</li>
+        <li><code>GET /api/random.json</code> &mdash; a random quote (fixed snapshot from the last build)</li>
+        <li><code>GET /api/meta.json</code> &mdash; totals and build timestamp</li>
+      </ul>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

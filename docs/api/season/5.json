@@ -1,0 +1,110 @@
+[
+  {
+    "id": 11,
+    "quote": "Fear is a tool. Used properly, it can save your life. Used improperly, it will end it.",
+    "season": 5,
+    "episode": 3,
+    "episodeTitle": "Greyson Blaise",
+    "tags": [
+      "fear",
+      "survival"
+    ]
+  },
+  {
+    "id": 12,
+    "quote": "A wise man once told me that the only way to survive is to never let them see you bleed.",
+    "season": 5,
+    "episode": 17,
+    "episodeTitle": "Anna McMahon",
+    "tags": [
+      "survival",
+      "resilience"
+    ]
+  },
+  {
+    "id": 28,
+    "quote": "The most important thing is to survive. Everything else is negotiable.",
+    "season": 5,
+    "episode": 1,
+    "episodeTitle": "Smokey Putnam",
+    "tags": [
+      "survival"
+    ]
+  },
+  {
+    "id": 29,
+    "quote": "I don't make the same mistake twice. I make it five or six times, just to be sure.",
+    "season": 5,
+    "episode": 11,
+    "episodeTitle": "Ian Garvey",
+    "tags": [
+      "wit",
+      "regret"
+    ]
+  },
+  {
+    "id": 52,
+    "quote": "The dead don't need justice. The living do.",
+    "season": 5,
+    "episode": 6,
+    "episodeTitle": "Sutton Ross",
+    "tags": [
+      "justice",
+      "grief"
+    ]
+  },
+  {
+    "id": 53,
+    "quote": "A good lie is built on a foundation of truth.",
+    "season": 5,
+    "episode": 9,
+    "episodeTitle": "Zarak Mosadek",
+    "tags": [
+      "truth",
+      "manipulation"
+    ]
+  },
+  {
+    "id": 54,
+    "quote": "I don't fear death. I fear becoming irrelevant before it.",
+    "season": 5,
+    "episode": 14,
+    "episodeTitle": "General Ludd",
+    "tags": [
+      "fear",
+      "identity"
+    ]
+  },
+  {
+    "id": 55,
+    "quote": "Chaos is just order waiting to be understood.",
+    "season": 5,
+    "episode": 20,
+    "episodeTitle": "And the Thrill of the Chase",
+    "tags": [
+      "wisdom"
+    ]
+  },
+  {
+    "id": 83,
+    "quote": "There's no version of this life where everyone I love stays safe. I chose anyway.",
+    "season": 5,
+    "episode": 16,
+    "episodeTitle": "Dr. Adrian Shaw (No. 2)",
+    "tags": [
+      "sacrifice",
+      "family"
+    ]
+  },
+  {
+    "id": 94,
+    "quote": "I don't believe in closure. I believe in managing what's left open.",
+    "season": 5,
+    "episode": 8,
+    "episodeTitle": "Dr. Bogdan Krilov",
+    "tags": [
+      "wisdom",
+      "grief"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "reddington-quote-api",
+  "version": "1.0.0",
+  "description": "Static Raymond Reddington quote API built locally and served via GitHub Pages",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "npx --yes serve docs -l 5000",
+    "quote": "bash scripts/random-quote.sh"
+  },
+  "license": "MIT"
+}
