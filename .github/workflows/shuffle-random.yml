@@ -1,0 +1,44 @@
+# Rebuilds the site every 30 minutes so docs/api/random.json gets a fresh quote.
+# scripts/build.js already picks a new random quote on every build, so no commit is needed:
+# this just rebuilds and redeploys GitHub Pages.
+name: Shuffle random quote
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 20
+      - name: Build static API with a fresh random quote
+        run: node scripts/build.js
+      - name: Show the new random quote
+        run: cat docs/api/random.json
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
